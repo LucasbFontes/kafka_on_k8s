@@ -1,1 +1,13 @@
-# modern_data_stack
+# Context
+
+# Technologies
+
+## MongoDB
+
+## Airbyte
+
+## Snowflake
+
+## DBT
+
+# Project
